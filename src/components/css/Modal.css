@@ -1,0 +1,26 @@
+.card{
+    width: 25rem;
+    height: 70%;
+}
+
+label{
+    font-family: 'Comic Sans MS', cursive;
+    opacity: 80%;
+}
+
+.card-content {
+    flex: 2;
+    max-width: 400px;
+}
+
+
+.close{
+    margin-left: 40%;
+    margin-bottom: 10%;
+
+}
+
+.bi-star:hover::before {
+    text-shadow: 0 0 0.05em rgba(0, 0, 0, 0.7);
+  }
+

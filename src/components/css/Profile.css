@@ -1,0 +1,27 @@
+.container-profile {
+    width: 100%;
+    height: 100%;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 5%;
+    color :beige;
+    font-size: larger;
+    align-items: center;
+  }
+
+  body{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/522/548/990/adult-swim-rick-sanchez-rick-and-morty-tv-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  /* Ejemplo de hover para los inputs */
+  .form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+
+  .actions-buttons{
+    width: 50%;
+    text-align: center;
+  }
